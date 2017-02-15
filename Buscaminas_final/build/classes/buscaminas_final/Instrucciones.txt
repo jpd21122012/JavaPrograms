@@ -1,0 +1,28 @@
+Instrucciones.....
+
+Haz click en Juego en la esquina superior izquierda de la ventana del programa y elige el nivel de dificultad 
+entre Principiante, Intermedio, Experto. Si no estás familiarizado con el juego, selecciona el nivel Principante.
+
+Nivel:
+	Principiante: 10 bombas
+	Intermedio: 20 bombas
+	Experto: 30 bombas
+
+Para empezar, haz click en cualquier recuadro, de preferencia alguno que se encuentre en la zona del medio. 
+La mayoría de los jugadores del Buscaminas hacen click en recuadros al azar hasta que un grupo de ellos se "abre". 
+Si 4 o 5 recuadros se abren luego de haber hecho click en alguno de ellos, es momento de empezar a analizar los 
+números. Si al hacer click en alguno de los recuadros éste es el único que se muestra, elige otro al azar.
+Hacer click izquierdo el algún recuadro mostrará su contenido.
+
+A medida que vayas haciendo click en los recuadros, verás que éstos tienen números. 
+Cada número representa la cantidad de minas adyacentes a un recuadro, en todos los sentidos 
+(izquierda/derecha, arriba/abajo y diagonalmente). Por ejemplo, si uno de los recuadros tiene el número 1, 
+significa que éste se encuentra adyacente a 1 mina.
+
+Elimina los recuadros que no pueden tener minas haciendo click izquierdo sobre ellos. 
+Por ejemplo, digamos que has encontrado un 1 y que estás bastante seguro de la ubicación de la mina adyacente al 1, 
+en este caso puedes hacer clic en todos los recuadros alrededor de dicho número 1 ya que éste sólo puede estar 
+en contacto con una mina.
+
+Una vez que domines el nivel Principiante, avanza al nivel Intermedio y luego al Experto. 
+Entre más juegues, notarás que cada vez perderás menos. 
